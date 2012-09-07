@@ -1,0 +1,42 @@
+Here be the scratch pad for page copy. Eventually it might make sense to split into multiple files.
+
+Home page
+===============
+_So, you'd like to learn Django? You've come to the right place._
+
+Whether you already know Python, know another language, or have never written a line of code in your life, we got your back.
+
+Choose your own adventure:
+
+<!-- 3 big buttons -->
+
+- I'm new to programming
+- I'm new to Python
+- I'm new to Web Development
+
+<!-- user chooses... -->
+
+I'm new to programming
+===============
+# learn python the hard way lessons 1-42.
+# and/or
+# google python class
+
+Welcome to... programming!
+
+Learning to program for the first time is super exciting and tends to open up a whole new world of possibilities. But rather than tell you about it, let's get started.
+
+Since you're going to need Python to make Django apps and Python is a great first programming language anyway, that's where you'll begin.
+
+[Learn Python the Hard Way](http://learnpythonthehardway.org/book/)
+
+Don't let the title fool you; the first section is called "The Hard Way Is Easier." Work through exercises 1-42.
+
+Done?
+
+
+
+I'm new to Python
+===============
+# rosetta code?
+
