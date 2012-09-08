@@ -1,5 +1,7 @@
 Here be the scratch pad for page copy. Eventually it might make sense to split into multiple files.
 
+Philosophy: We're trying to get someone up to speed on django as quickly as possible. As a developer learns more, they're going to want to know alternate ways to do things. However, when they're first learning (especially someone who's new to programming altogether), we don't want to overwhelm them with options. Trader Joe's and Dave Matthews learned this. Rather then give someone 143 options, give them a few (or one) good ones. So, we're going to try to trim things down to one good option for learning each technology. In case whatever it is doesn't work for someone's learning style, I'm okay putting some other options in an inconspicuous little box on the side or something.
+
 Home page
 ===============
 _So, you'd like to learn Django? You've come to the right place._
@@ -8,19 +10,16 @@ Whether you already know Python, know another language, or have never written a 
 
 Choose your own adventure:
 
-<!-- 3 big buttons -->
+<!-- 4 big buttons -->
 
 - I'm new to programming
 - I'm new to Python
-- I'm new to Web Development
+- I'm new to web development
+- Just teach me Django!
 
-<!-- user chooses... -->
 
 I'm new to programming
 ===============
-# learn python the hard way lessons 1-42.
-# and/or
-# google python class
 
 Welcome to... programming!
 
@@ -30,13 +29,50 @@ Since you're going to need Python to make Django apps and Python is a great firs
 
 [Learn Python the Hard Way](http://learnpythonthehardway.org/book/)
 
-Don't let the title fool you; the first section is called "The Hard Way Is Easier." Work through exercises 1-42.
+Don't let the title fool you; the first section is called "The Hard Way Is Easier." You really only need to work through exercises 1-42, but feel free to do the whole thing.
 
-Done?
+<!-- this would be in an inconspicuous box over on the side or something -->
+"Learn Python the Hard Way" not working for you? Here are some other options for learning to program using Python:
+- [CodeAcademy](http://www.codecademy.com/tracks/python) - If badges motivate you, here's your course.
+- [Udacity](http://www.udacity.com/overview/Course/cs101/CourseRev/apr2012) - Videos and interactive quizzes.
 
+Done? Great!
 
+Where to want to go next?
+
+<!-- buttons again :-) -->
+
+- I'm new to web development
+- I'm ready! Teach me Django!
 
 I'm new to Python
 ===============
-# rosetta code?
+
+You've probably heard it already, but Python is a great language that's fun to use. Since you've already learned another programming language, you've already gone through the hardest step: learning computational thinking. So this should be quick.
+
+[Google's Python Class](http://code.google.com/edu/languages/google-python-class/introduction.html)
+
+Work through the course until you feel comfortable enough with the language. You probably at least want to get through the Utilities section.
+
+<!-- side bar -->
+If you're curious about how to do a particular thing in Python, you might be interested in [Rosetta Code's Python page](http://rosettacode.org/wiki/Category:Python).
+
+Got a handle on Python? Pretty cool, huh?
+
+Where to next?
+
+<!-- buttons comin' -->
+
+- I'm new to web development
+- I'm ready! Teach me Django!
+
+
+I'm new to web development
+===============
+
+
+
+Teach me Django!
+===============
+
 
