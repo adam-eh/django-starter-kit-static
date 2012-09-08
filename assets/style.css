@@ -363,3 +363,14 @@ li {
   color: #555;
   margin-top: 10px;
 }
+
+.content {
+  width: 920px;
+  padding: 40px;
+  margin: auto;
+  position: relative; /* Do this just in case we ever want to absolutely position children */
+}
+.no-padding { /* Well, not really *none*, but *less* */
+  width: 940px;
+
+}
