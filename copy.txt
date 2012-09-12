@@ -1,5 +1,7 @@
 Here be the scratch pad for page copy. Eventually it might make sense to split into multiple files.
 
+Authors: Kevin Daum <kevin.daum@gmail.com>,
+
 Philosophy: We're trying to get someone up to speed on django as quickly as possible. As a developer learns more, they're going to want to know alternate ways to do things. However, when they're first learning (especially someone who's new to programming altogether), we don't want to overwhelm them with options. Trader Joe's and Dave Matthews learned this. Rather then give someone 143 options, give them a few (or one) good ones. So, we're going to try to trim things down to one good option for learning each technology. In case whatever it is doesn't work for someone's learning style, I'm okay putting some other options in an inconspicuous little box on the side or something.
 
 Home page
